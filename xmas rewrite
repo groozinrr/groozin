@@ -158,7 +158,7 @@ function library:CreateWindow(WName)
 
         Container:TweenSize(targetSize, targetDirection, "Linear", 0.15, true)
 	end)
-	print("Some of wally's functions was used :)")
+	print("Some of wally's functions was used :) IM NOT RELATED TO WALLY WALLY IS RELATED TO THE GUI I GUEES --groozin_rr i dont watch henti i only do when m1d be around")
 	function ui:Resize()
         local y = 37
         for i, v in pairs(Container:GetChildren()) do
